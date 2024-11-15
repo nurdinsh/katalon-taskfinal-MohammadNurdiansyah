@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Your favorite movie1</name>
+   <tag></tag>
+   <elementGuidId>8fc77fb6-29e7-4f80-8b64-b8dd51ed1165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//[@id='mat-select-value-3']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-15 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your favorite movie?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f838c5ae-ae8d-41b2-bd00-bb0bf8ea3b13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>c2cdfa69-06df-4d4c-aaff-0be1a75f4452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Your favorite movie? </value>
+      <webElementGuid>087e6a0a-de0b-478d-8edb-92d26be2cdeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-15&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c7899462-c9f4-417a-94c5-e4991f41bddd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-15']/span</value>
+      <webElementGuid>b294b94d-38bf-439e-8aa3-7c7f23dbf329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your favorite book?'])[1]/following::span[1]</value>
+      <webElementGuid>eb16a232-52a2-4593-a121-f6faf7950371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company you first work for as an adult?'])[1]/following::span[2]</value>
+      <webElementGuid>c66c7f85-4a86-4ab3-965c-478f61a2f51c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of one of your customer or ID cards?'])[1]/preceding::span[1]</value>
+      <webElementGuid>be5e18e6-143f-4eaf-8ed2-a4bdbe998cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your favorite movie?']/parent::*</value>
+      <webElementGuid>135e84d6-7e95-4df9-a257-2f00b84281e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[12]/span</value>
+      <webElementGuid>05d77951-ed23-4a35-98dc-b7748d53fb2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Your favorite movie? ' or . = ' Your favorite movie? ')]</value>
+      <webElementGuid>6751c216-734c-45b6-9a05-adc0f72d5e09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

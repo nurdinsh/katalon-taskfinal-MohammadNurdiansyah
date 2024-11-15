@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Empty History</description>
+   <name>TC01_Verify Empty History</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>520e6106-1acc-4dc6-ac2a-dcf821d344eb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23be10aa-2c47-4a52-b252-c3446c6801a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc276c91-1dbf-4e8d-add7-6e278b7bdbd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>274da77f-525c-4ada-a630-036b2d95bab6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8de3be50-8a5c-4971-ab96-a6b22f4c4d71</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dian@gmail.com'</defaultValue>
+      <description></description>
+      <id>23be10aa-2c47-4a52-b252-c3446c6801a0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Puc6xyeJOtC8SghT7Dz9yA=='</defaultValue>
+      <description></description>
+      <id>fc276c91-1dbf-4e8d-add7-6e278b7bdbd5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>274da77f-525c-4ada-a630-036b2d95bab6</id>
+      <masked>false</masked>
+      <name>Show_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>8de3be50-8a5c-4971-ab96-a6b22f4c4d71</id>
+      <masked>false</masked>
+      <name>Checked</name>
+   </variable>
+</TestCaseEntity>

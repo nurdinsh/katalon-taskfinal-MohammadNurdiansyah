@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Your ZIPpostal code when you were a teenager</name>
+   <tag></tag>
+   <elementGuidId>f511a9ae-50c4-4592-876d-3783ea443d94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-12']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-12 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your ZIP/postal code when you were a teenager?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4717d42-ad26-4b93-acdd-99d7a92b0f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>09b9886f-f3b3-4af3-8d7c-4cf7b2df1e37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Your ZIP/postal code when you were a teenager? </value>
+      <webElementGuid>c0180d10-d6e8-4dfa-829f-742b3da069fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-12&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>8b437fde-d63b-472d-ad3b-8c3b1583f19a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-12']/span</value>
+      <webElementGuid>6abf3e48-e55e-4021-a790-11fa4cf0163b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name of your favorite pet?'])[1]/following::span[2]</value>
+      <webElementGuid>0dc2d29e-eb8b-44a6-8f29-08913e37969f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company you first work for as an adult?'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c5d3d42-a35d-497c-9c73-19c2f125c3e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your favorite book?'])[1]/preceding::span[2]</value>
+      <webElementGuid>a4b58283-4094-41f2-9787-84ef6be83c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your ZIP/postal code when you were a teenager?']/parent::*</value>
+      <webElementGuid>22f3d15c-5f1c-446a-9808-22416c503b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[9]/span</value>
+      <webElementGuid>3d9aa8c9-8381-4912-bd57-ec7433d19c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Your ZIP/postal code when you were a teenager? ' or . = ' Your ZIP/postal code when you were a teenager? ')]</value>
+      <webElementGuid>104a823e-f8e9-4a6e-9cd7-cde28dd3195a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

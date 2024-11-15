@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Last name of dentist when you were a t_93b482</name>
+   <tag></tag>
+   <elementGuidId>4acb8ca5-b141-4632-b280-884d3f4709f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-11']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-11 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Last name of dentist when you were a teenager? (Do not include 'Dr.')&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1a7580e2-0837-42cf-9188-59dbd86e2ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>254e64e4-5768-406d-b378-58b26c1106df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Last name of dentist when you were a teenager? (Do not include 'Dr.') </value>
+      <webElementGuid>e658d5a7-9abc-4d3c-bc9c-409f161d2e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-11&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>f78493a8-be3d-4b6e-a3cc-535ed81c8c17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-11']/span</value>
+      <webElementGuid>6f580429-bddf-45f5-9786-92fc6a89f9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name of your favorite pet?'])[2]/following::span[1]</value>
+      <webElementGuid>8ba28723-e0c6-4c41-a4f8-ad1008de0471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your ZIP/postal code when you were a teenager?'])[1]/preceding::span[1]</value>
+      <webElementGuid>a28b28c1-a9d4-4bfd-9be8-b9f82b1d4200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company you first work for as an adult?'])[1]/preceding::span[2]</value>
+      <webElementGuid>3c2ec03b-1837-46ea-b495-b1acacf24b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[8]/span</value>
+      <webElementGuid>aa386009-5f0f-4221-94bf-2e5c281b0d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot; Last name of dentist when you were a teenager? (Do not include &quot; , &quot;'&quot; , &quot;Dr.&quot; , &quot;'&quot; , &quot;) &quot;) or . = concat(&quot; Last name of dentist when you were a teenager? (Do not include &quot; , &quot;'&quot; , &quot;Dr.&quot; , &quot;'&quot; , &quot;) &quot;))]</value>
+      <webElementGuid>9fff78fe-ea26-4dce-b5f1-9bb1014c0b65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

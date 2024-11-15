@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_X</name>
+   <tag></tag>
+   <elementGuidId>70b68612-5cb6-4ba2-97a2-dc19d12126f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-9']/snack-bar-container/div/div/simple-snack-bar/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-button.mat-button-base.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;X&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b58ffc33-a3b2-43a9-aabd-1ba911b6fa7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-button mat-button-base cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>84808bf1-d8eb-4b1a-86a9-b7ac1f95ef93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X</value>
+      <webElementGuid>5b424cdd-19ae-4578-a80c-e8abb7623e5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-9&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c9-31 ng-trigger ng-trigger-state confirmBar mat-snack-bar-center ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c9-31&quot;]/div[@class=&quot;ng-tns-c9-31&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/div[@class=&quot;mat-simple-snackbar-action ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d9463f04-6846-43f4-98e3-6ceea2c6082d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-9']/snack-bar-container/div/div/simple-snack-bar/div/button</value>
+      <webElementGuid>aadee59b-8bf6-4c8c-b59a-00698ea1e390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The address at tng has been successfully added to your addresses.'])[1]/following::button[1]</value>
+      <webElementGuid>99b1515a-d435-4712-8e70-8249d0c1f3e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[1]/following::button[1]</value>
+      <webElementGuid>08b06b23-c0ed-47ad-afd0-6697c14e3988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open side menu'])[1]/preceding::button[1]</value>
+      <webElementGuid>8957fb0e-a13c-46af-a3cc-09c220b2b88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//simple-snack-bar/div/button</value>
+      <webElementGuid>7ab1e29f-6e3c-49b8-8f50-6ebcbfd7df33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'X' or . = 'X')]</value>
+      <webElementGuid>1aeeaee9-094e-430b-9208-78bdc84f361f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

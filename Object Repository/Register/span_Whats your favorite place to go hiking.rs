@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Whats your favorite place to go hiking</name>
+   <tag></tag>
+   <elementGuidId>a2c8fb60-2e7b-4725-bead-888df3d1f358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-17']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-17 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;What's your favorite place to go hiking?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90410664-3a8d-4db0-9545-f859fc2d2f33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>d9ac90f5-1aaa-4d16-afe0-1a32f3751597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> What's your favorite place to go hiking? </value>
+      <webElementGuid>88a07339-f0ad-4afd-83cd-a9dca442e228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-17&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>8289ccb2-fee6-4b29-9294-f2d2b7d81f70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-17']/span</value>
+      <webElementGuid>193f9051-837f-4b7d-8b6a-e6827cef9e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of one of your customer or ID cards?'])[2]/following::span[1]</value>
+      <webElementGuid>59fa7e26-e4db-4210-b920-0fa0fa188ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your favorite movie?'])[1]/following::span[2]</value>
+      <webElementGuid>d07f45d3-0dcf-4c67-a54f-2ae27ef2142b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open side menu'])[1]/preceding::span[1]</value>
+      <webElementGuid>022ba5e6-b6e1-44c4-853d-9f91f500840c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose language'])[1]/preceding::span[1]</value>
+      <webElementGuid>6ddccd28-e0be-446c-b660-4e9d92ef8c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[14]/span</value>
+      <webElementGuid>c20db7c8-7691-4978-b2e0-56f8e50df3c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot; What&quot; , &quot;'&quot; , &quot;s your favorite place to go hiking? &quot;) or . = concat(&quot; What&quot; , &quot;'&quot; , &quot;s your favorite place to go hiking? &quot;))]</value>
+      <webElementGuid>788ce52e-0012-4d73-905d-35a1d2b28154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

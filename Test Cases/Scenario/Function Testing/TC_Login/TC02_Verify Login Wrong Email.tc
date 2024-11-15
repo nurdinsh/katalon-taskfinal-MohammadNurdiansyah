@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan Email dan Password benar</description>
+   <name>TC02_Verify Login Wrong Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f61dc8c-cd8e-48e7-9972-6602aa8f8e8f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>596f923e-84f7-4582-a519-25c4b29a4e2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f78ed479-26c7-4339-bdaf-a6a953e9c6c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7d087ec9-d992-4a1b-95c9-6f4fa4927d90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>57ec951e-a911-47fb-95c6-ed0a9dc459db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Diannn@gmail.com'</defaultValue>
+      <description></description>
+      <id>596f923e-84f7-4582-a519-25c4b29a4e2c</id>
+      <masked>false</masked>
+      <name>Email_wrong</name>
+   </variable>
+   <variable>
+      <defaultValue>'Puc6xyeJOtC8SghT7Dz9yA=='</defaultValue>
+      <description></description>
+      <id>f78ed479-26c7-4339-bdaf-a6a953e9c6c1</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>7d087ec9-d992-4a1b-95c9-6f4fa4927d90</id>
+      <masked>false</masked>
+      <name>Show_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'false'</defaultValue>
+      <description></description>
+      <id>57ec951e-a911-47fb-95c6-ed0a9dc459db</id>
+      <masked>false</masked>
+      <name>Checked</name>
+   </variable>
+</TestCaseEntity>

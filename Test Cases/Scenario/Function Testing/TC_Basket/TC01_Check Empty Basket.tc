@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Empty Basket</description>
+   <name>TC01_Check Empty Basket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>275dadcc-829c-4bd1-8636-00ed4a25eaea</testCaseGuid>
+</TestCaseEntity>

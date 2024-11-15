@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register BDD</description>
+   <name>TC01_Register BDD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6e9e62d-7a5c-4993-b405-0c1cda8af88c</testCaseGuid>
+</TestCaseEntity>
